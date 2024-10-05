@@ -1,0 +1,1 @@
+# yfinance---Carteira-de-Investimentos
